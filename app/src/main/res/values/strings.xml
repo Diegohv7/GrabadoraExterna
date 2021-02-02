@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Grabadora Externa</string>
+    <string name="PLAY">PLAY</string>
+    <string name="GRABAR">GRABAR</string>
+    <string name="PAUSAR">PAUSAR</string>
+    <string name="REANUDAR">REANUDAR</string>
+    <string name="PARAR">PARAR</string>
+    <string name="txtbits">bit</string>
+
+</resources>
